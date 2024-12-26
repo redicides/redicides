@@ -1,8 +1,8 @@
 # 👋 Hello
 
-I'm dan (redicides), an incompetent and so called full stack dev. 
+I'm dan, an incompetent and so called full stack dev that builds random shit on the internet.
 
-I build many things, some which are cool, and some which are straight up pieces of shit with no proper use. While doing so, I usually use the following languages, frameworks, databases, and tools.
+## Tech Stack
 
 ![](https://skillicons.dev/icons?i=nodejs,js,ts,html,css,lua)
 
@@ -11,5 +11,3 @@ I build many things, some which are cool, and some which are straight up pieces 
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra)
 
 ![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git,gcp)
-
-If you couldn't already tell, I stick to easy & interpreted languages, with Go being an exception.
