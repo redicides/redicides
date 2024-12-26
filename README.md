@@ -12,4 +12,4 @@ They usually use databases like
 
 And get deployed through
 
-![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git
+![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git)
