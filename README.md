@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm dan (redicides). An incompetent "full stack" dev from Germany 🇩🇪. 
 
-<!--
-**redicides/redicides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build many things, some which are cool, and some which are straight up pieces of shit with no proper use.
 
-Here are some ideas to get you started:
+Most of my random shit is built with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://skillicons.dev/icons?i=nodejs,bun,npm,js,ts,go,html,css,tailwind,nextjs,react,svelte,graphql,sentry,prisma)
+
+They usually use databases like
+
+![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis)
+
+And get deployed through
+
+![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git
