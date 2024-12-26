@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm dan (redicides), an incompetent so called "full stack" dev. 
+I'm dan (redicides), an incompetent and so called "full stack" dev. 
 
 I build many things, some which are cool, and some which are straight up pieces of shit with no proper use.
 
