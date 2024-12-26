@@ -8,7 +8,9 @@ I build many things, some which are cool, and some which are straight up pieces 
 
 I usually use the following languages, frameworks, databases, and tools, for my bs.
 
-![](https://skillicons.dev/icons?i=nodejs,bun,npm,js,ts,go,html,css,tailwind,nextjs,react,svelte,graphql,sentry,prisma)
+![](https://skillicons.dev/icons?i=nodejs,npm,js,ts,html,css)
+
+![](https://skillicons.dev/icons?i=tailwind,nextjs,svelte,graphql,sentry,prisma)
 
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)
 
