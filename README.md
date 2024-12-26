@@ -8,12 +8,12 @@ I build many things, some which are cool, and some which are straight up pieces 
 
 I usually use the following languages, frameworks, databases, and tools, for my bs.
 
-![](https://skillicons.dev/icons?i=nodejs,npm,js,ts,html,css)
+![](https://skillicons.dev/icons?i=nodejs,,js,ts,html,css,lua)
 
 ![](https://skillicons.dev/icons?i=tailwind,nextjs,svelte,graphql,sentry,prisma)
 
-![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)
+![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,graphql)
 
-![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git)
+![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git,github)
 
 If you couldn't already tell, I stick to easy & interpreted languages, with Go being an exception.
