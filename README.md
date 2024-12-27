@@ -11,3 +11,6 @@ I'm dan, an incompetent and so called full stack dev that builds random shit on 
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra)
 
 ![](https://skillicons.dev/icons?i=docker,cloudflare,workers,linux,git,gcp)
+
+## Metrics
+<picture><img src="/github-metrics.svg" alt="Metrics" draggable="false"></picture>
