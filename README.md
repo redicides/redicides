@@ -1,6 +1,6 @@
 # 👋 Hi, I'm dan
 
-An incompetent full stack dev that builds random shit on the internet.
+A chaotic full stack developer who spends their time building random and often questionable things on the internet.
 
 ## Tech Stack
 
