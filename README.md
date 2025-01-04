@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm dan
 
-A typescript addicted full stack developer from the land of pretzels (🇩🇪).
+An Arch linux & neovim user that just so happens to be a full stack developer.
 
 ## Tech Stack
 
