@@ -1,6 +1,6 @@
-# 👋 Hi, I'm dan
+# 👋 Hi there, I'm dan
 
-A chaotic full stack developer who spends their time building random and often questionable things on the internet.
+A typescript addicted full stack developer from the land of pretzels (🇩🇪).
 
 ## Tech Stack
 
