@@ -27,7 +27,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: percentage
           # Set limit to a very high value or remove it to show all languages
-          plugin_languages_limit: 999
+          plugin_languages_limit: 10
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
