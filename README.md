@@ -2,7 +2,7 @@
 
 I'm **dan** — a biochemistry student who also happens to enjoy playing with code (and occasionally breaking things for fun).
 
-In my spare time, you'll usually find me building just about anything, but I usually build discord user installable applications. It's not anything special, but I find neat. Most of my work stays private, so don't expect a treasure trove of open-source projects here.
+In my spare time, you'll either find me building just about anything, or biking in places where people get lost. Whenever I do build something though, It's usually a Discord User APP packed with some nice utility tools. It's not anything special, but I find neat. Most of my work stays private though, so don't expect a treasure trove of open-source projects here.
 
 As for contributing to others' projects... let's just say I'm more of a lone wolf in that department (for now).
 
