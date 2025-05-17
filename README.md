@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm dan, a biochemistry major that also happens to be a full stack developer (albeit not a very good one).
+I'm a biochemistry major that also happens to be a full stack developer (albeit not a very good one).
 
 ## 🧰 Tech Stack
 
