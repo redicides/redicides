@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm a biochemistry major that also happens to be a full stack developer (albeit not a very good one).
+I'm just a random student that also happens to like coding quite a lot.
 
 ## 🧰 Tech Stack
 
